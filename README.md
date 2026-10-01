@@ -1,2 +1,2 @@
 # SSW567-HW03a
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/DGaber1/SSW567-HW03a/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/DGaber1/SSW567-HW03a/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/DGaber1/SSW567-HW03a/tree/HW03b_Mocking.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/DGaber1/SSW567-HW03a/tree/HW03b_Mocking)
